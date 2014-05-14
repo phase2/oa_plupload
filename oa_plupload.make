@@ -14,6 +14,7 @@ projects[media_multiselect][subdir] = contrib
 projects[media_multiselect][download][url] = http://git.drupal.org/sandbox/fangel/1652676.git
 projects[media_multiselect][download][type] = git
 projects[media_multiselect][download][branch] = 7.x-1.x
+projects[media_multiselect][download][revision] = 7d445f
 
 libraries[plupload][download][type] = get
 libraries[plupload][download][url] = http://github.com/moxiecode/plupload/archive/v1.5.8.zip
