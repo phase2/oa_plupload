@@ -2,6 +2,7 @@ name = Open Atrium MultiUpload
 description = Integration with plupload library for drag/drop multiple file upload
 core = 7.x
 package = Open Atrium
+dependencies[] = media_bulk_upload
 dependencies[] = media_multiselect
 dependencies[] = multiform
 dependencies[] = plupload
