@@ -3,3 +3,5 @@
  * @file
  * Code for the Open Atrium Plupload module.
  */
+
+include_once 'oa_plupload.features.inc';
