@@ -18,6 +18,8 @@ function oa_plupload_features_override_default_overrides() {
   $overrides["field_instance.node-oa_event-field_oa_media.widget|type"] = 'media_multiselect';
   $overrides["field_instance.node-oa_wiki_page-field_oa_media.widget|module"] = 'media_multiselect';
   $overrides["field_instance.node-oa_wiki_page-field_oa_media.widget|type"] = 'media_multiselect';
+  $overrides["field_instance.node-oa_worktracker_task-field_oa_media.widget|module"] = 'media_multiselect';
+  $overrides["field_instance.node-oa_worktracker_task-field_oa_media.widget|type"] = 'media_multiselect';
 
  return $overrides;
 }
