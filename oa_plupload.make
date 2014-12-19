@@ -3,10 +3,9 @@
 api = 2
 core = 7.x
 
-projects[plupload][version] = 1.6
+projects[plupload][version] = 1.7
 projects[plupload][subdir] = contrib
 projects[plupload][patch][2386741] = https://www.drupal.org/files/issues/2386741-plupload-modal-2.patch
-projects[plupload][patch][2063161] = https://www.drupal.org/files/issues/2063161-plupload-id-14.patch
 
 projects[multiform][version] = 1.1
 projects[multiform][subdir] = contrib
